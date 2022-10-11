@@ -1,1 +1,2 @@
-Displays a confused smile
+Script that prints, "Hello, world"
+
