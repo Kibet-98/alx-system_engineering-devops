@@ -1,2 +1,2 @@
-#1/bin/bash
-echo -en "" | tail --line=1 iacta >> iacta
+#!/bin/bash
+echo -en "" | tail --lines=1 iacta >> iacta
