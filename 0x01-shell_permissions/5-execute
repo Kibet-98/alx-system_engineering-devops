@@ -1,3 +1,2 @@
-#Add execute permission to the file "hello"
 #!/bin/bash
 chmod u+x hello
